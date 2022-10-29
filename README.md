@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hackbox4sk
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently Preparing CEH
-- 💞️ I’m looking to collaborate on Cyber Security Projects
+- 💞️ I’m looking to collaborate in Cyber Security Projects
 - 📫 How to reach me mail me at siddharthkhandelwal488@gmail.com
 
 <!---
